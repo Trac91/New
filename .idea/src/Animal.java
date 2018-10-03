@@ -66,7 +66,7 @@ public class Animal {
         }
         else
         {
-            conts = "no containent specifed";
+            conts = "No Continent Specifed";
         }
 
         return "Type: " + type + " \nContinent: " + conts + "\nWeight: " + weight + "\nAge: " + age;

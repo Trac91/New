@@ -14,7 +14,9 @@ public class AnimalDriver {
         JOptionPane.showMessageDialog(null, a2.toString());
 
         JOptionPane.showMessageDialog(null, "Type: " + a2.getType() + "\n" + "Continents: " + a2.getContinents());
-       /* String type;
+
+
+        /* String type;
       //  String[] continent ;
         double weight;
         int age;
